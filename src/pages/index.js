@@ -33,7 +33,7 @@ const IndexPage = () => (
     	   <h2>About Me</h2>
     	   <p>I am a front-end web developer with extensive experience in Drupal and WordPress. I have built and themed dozens of sites in both platforms. My favorite part of the job is taking a design mockup and, with just a code editor, browser and terminal window, building it into a beautiful, responsive and fully-functional website.</p>
            <p>I also have experience running and maintaining a successful website, having created the popular <em>Game of Thrones</em> fan site WinterIsComing.net. I started it as a simple blog with only several dozen visitors and grew it into a full-blown website with millions of page views a month. This experience taught me a lot about how to grow an audience using frequent content updates, social media, and search engine optimization.</p>
-           <p>I am currently employed as a web developer at Duke University (Durham, NC) in the Office of Information Technology's Web Services team. My job responsibilities there include building sites in Drupal and WordPress, as well as maintaining existing sites via bug fixes, security patches and updates.</p>
+           <p>I am currently employed as a Drupal developer at Annertech, a Drupal agency based in Ireland. At Annertech, I work on the Managed Services team where we managed dozens of clients' website, performing bug fixes, security updates and feature requests.</p>
         </div>
     </section>
 
@@ -72,7 +72,7 @@ const IndexPage = () => (
                     <h3>Duke Population Research Institute</h3>
                     <p>DUPRI was my first Drupal 8 site build which also doubled as my second and third Drupal 8 sites, as this theme was used on two related sites (CPHA and DPRC).</p>
                     <a href="https://dupri.duke.edu/">Visit DUPRI</a>
-                </div> 
+                </div>
             </div>
         </div>
     </section>
